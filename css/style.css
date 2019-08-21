@@ -114,7 +114,7 @@ figure {
     #colorlib-aside #colorlib-logo a {
       display: inline-block;
       text-align: center;
-      background:#b3b3b3;
+      background:white;
       padding: .5em .8em;
       color: #fff;
       letter-spacing: 10px;
@@ -288,6 +288,7 @@ figure {
         padding: 2em;
         position: relative; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .desc {
+          opacity: 0.8;
           position: absolute;
           bottom: 15px;
           left: 0;
